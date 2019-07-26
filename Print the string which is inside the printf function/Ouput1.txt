@@ -1,0 +1,1 @@
+#include<stdio.h>intmain(void){	inta=2/3;//SingleLineCommentprintf("Hello");/*MultiLineComment*/printf("World");return0;}
